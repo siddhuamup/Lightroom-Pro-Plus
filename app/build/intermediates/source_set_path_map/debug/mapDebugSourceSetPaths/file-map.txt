@@ -1,0 +1,60 @@
+com.cleanlr.app-runtime-saveable-release-0 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\017ee5eceaf92ab51cdf3bf56ce1bca1\transformed\runtime-saveable-release\res
+com.cleanlr.app-material-release-1 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\0349677b49146a720c3c978418480501\transformed\material-release\res
+com.cleanlr.app-lifecycle-process-2.8.7-2 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\0403189d11d57e17ed6ce5b84a80ea45\transformed\lifecycle-process-2.8.7\res
+com.cleanlr.app-material-icons-core-release-3 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\0aa4c3890b090a1b76a5dbf367e7a149\transformed\material-icons-core-release\res
+com.cleanlr.app-lifecycle-runtime-release-4 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\0b25416d39cf0dde7ee27d11c4dd9eba\transformed\lifecycle-runtime-release\res
+com.cleanlr.app-tracing-1.2.0-5 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\23278545c1e503565c139228a85a5fae\transformed\tracing-1.2.0\res
+com.cleanlr.app-lifecycle-viewmodel-ktx-2.8.7-6 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\26d94cac85cdd5f93cf8603ab5c9e014\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.cleanlr.app-lifecycle-viewmodel-release-7 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\28ce5cf6bc5f5d39a313cf5f347c4cc8\transformed\lifecycle-viewmodel-release\res
+com.cleanlr.app-activity-1.9.3-8 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\296fb2225ca1e745717552e70c5c39ad\transformed\activity-1.9.3\res
+com.cleanlr.app-activity-compose-1.9.3-9 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\2c002b0ab7595a29b83eeed47eefdfaa\transformed\activity-compose-1.9.3\res
+com.cleanlr.app-room-runtime-2.5.0-10 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\307a8a802f25a04e99cd3e9ce8a978f7\transformed\room-runtime-2.5.0\res
+com.cleanlr.app-activity-ktx-1.9.3-11 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\3997d5d686bdd291f0b14fb9ce5350af\transformed\activity-ktx-1.9.3\res
+com.cleanlr.app-ui-tooling-release-12 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\3b423cd9aadac17f8d6a952920c1a07a\transformed\ui-tooling-release\res
+com.cleanlr.app-graphics-path-1.0.1-13 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\47df68a90dc04177debcdb2507393c0d\transformed\graphics-path-1.0.1\res
+com.cleanlr.app-lifecycle-viewmodel-savedstate-2.8.7-14 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\4b951ec2f24dd22949332fbbf57e5940\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.cleanlr.app-profileinstaller-1.3.1-15 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\4bcdde462c007160d61071f18c0c50e0\transformed\profileinstaller-1.3.1\res
+com.cleanlr.app-ui-unit-release-16 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\4df2447e200df2c7c48686df89431076\transformed\ui-unit-release\res
+com.cleanlr.app-foundation-layout-release-17 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\4e060c71899186773183a5a273fba2b2\transformed\foundation-layout-release\res
+com.cleanlr.app-lifecycle-livedata-2.8.7-18 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\50d2cc09b7cf3a4eae14010880040bd3\transformed\lifecycle-livedata-2.8.7\res
+com.cleanlr.app-ui-release-19 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\5397c99e385be06a89b7168c89bbc415\transformed\ui-release\res
+com.cleanlr.app-runtime-release-20 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\5dafe1884e751bc42a9c7d0308606e35\transformed\runtime-release\res
+com.cleanlr.app-material-ripple-release-21 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\6013520575b3c4ae6e1127ee10bc5d4f\transformed\material-ripple-release\res
+com.cleanlr.app-annotation-experimental-1.4.1-22 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\62fc1e41a0e9e93a4e78d96e6ae6e57a\transformed\annotation-experimental-1.4.1\res
+com.cleanlr.app-work-runtime-2.9.1-23 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\657132c032887f0bb81cb8f35e25d170\transformed\work-runtime-2.9.1\res
+com.cleanlr.app-material3-release-24 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\6e7e740bafd81c501129c58ffc032634\transformed\material3-release\res
+com.cleanlr.app-ui-tooling-preview-release-25 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\71a51cf5c5eeef80550e4592ce82092a\transformed\ui-tooling-preview-release\res
+com.cleanlr.app-ui-graphics-release-26 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\71cdf6a1a292329cebbec7216f6d5f5d\transformed\ui-graphics-release\res
+com.cleanlr.app-core-ktx-1.15.0-27 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\7ff47659ce25457e677d62e02d525df1\transformed\core-ktx-1.15.0\res
+com.cleanlr.app-ui-geometry-release-28 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\8243c25b0e524ec729dc3accf67ed52f\transformed\ui-geometry-release\res
+com.cleanlr.app-savedstate-1.2.1-29 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\859c7833ae04e5f4bb5f550280d4f63a\transformed\savedstate-1.2.1\res
+com.cleanlr.app-ui-util-release-30 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\8629f5e3eed5ea948d206676bfd358e4\transformed\ui-util-release\res
+com.cleanlr.app-lifecycle-livedata-core-2.8.7-31 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\91f9371928910e2bf52ca0507c268c63\transformed\lifecycle-livedata-core-2.8.7\res
+com.cleanlr.app-sqlite-2.3.0-32 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\92831ab920d61b6664ef92c8156a9c1d\transformed\sqlite-2.3.0\res
+com.cleanlr.app-savedstate-ktx-1.2.1-33 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\9432ce4da3da460d2e5d139ab2049c7c\transformed\savedstate-ktx-1.2.1\res
+com.cleanlr.app-lifecycle-viewmodel-compose-release-34 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\9ce8cb0b63e992827fdf96a483278e29\transformed\lifecycle-viewmodel-compose-release\res
+com.cleanlr.app-emoji2-1.3.0-35 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\9d08fc0de681bdd36d7f1410fcffad9c\transformed\emoji2-1.3.0\res
+com.cleanlr.app-core-runtime-2.2.0-36 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\a25b94707417dda6f489fc9229bc4f06\transformed\core-runtime-2.2.0\res
+com.cleanlr.app-ui-text-release-37 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\aa13fdba957e13a958720500edb91577\transformed\ui-text-release\res
+com.cleanlr.app-animation-core-release-38 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\aa21dff392590d2b83c4047c69b3bcce\transformed\animation-core-release\res
+com.cleanlr.app-core-1.15.0-39 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\b7b125547e230fd8f0f7f969d6810739\transformed\core-1.15.0\res
+com.cleanlr.app-lifecycle-runtime-compose-release-40 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\b9b37de52e4d22f04b6275d658afade7\transformed\lifecycle-runtime-compose-release\res
+com.cleanlr.app-startup-runtime-1.1.1-41 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\b9c19d3415675fa716b726e82ea6bb67\transformed\startup-runtime-1.1.1\res
+com.cleanlr.app-customview-poolingcontainer-1.0.0-42 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\c14da971f7e4180d6a40049215951f98\transformed\customview-poolingcontainer-1.0.0\res
+com.cleanlr.app-lifecycle-livedata-core-ktx-2.8.7-43 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\d24dd0288dff2514d3cddcdac3ad3ee6\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.cleanlr.app-room-ktx-2.5.0-44 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\d909cf0cd0e7f03ae2f85f590ca9449b\transformed\room-ktx-2.5.0\res
+com.cleanlr.app-foundation-release-45 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\dae8a3625ee7e3d130a3d9f9e12f6316\transformed\foundation-release\res
+com.cleanlr.app-lifecycle-runtime-ktx-release-46 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\de0ccad07229739f0ed4faa81d72f2a5\transformed\lifecycle-runtime-ktx-release\res
+com.cleanlr.app-material-icons-extended-release-47 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\e053be1a53ab56cb2aae0d0cc7409cc3\transformed\material-icons-extended-release\res
+com.cleanlr.app-work-runtime-ktx-2.9.1-48 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\e69d173dabbddc42df38afac61560ec9\transformed\work-runtime-ktx-2.9.1\res
+com.cleanlr.app-ui-tooling-data-release-49 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\ea0883ef8a7cd786d0139849ffe56ed3\transformed\ui-tooling-data-release\res
+com.cleanlr.app-sqlite-framework-2.3.0-50 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\ed7bf334c92b6206668c3a2572a6b5f0\transformed\sqlite-framework-2.3.0\res
+com.cleanlr.app-lifecycle-service-2.8.7-51 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\f83c246c7bc341b5a6f0cc25ee82af7f\transformed\lifecycle-service-2.8.7\res
+com.cleanlr.app-animation-release-52 C:\Users\Siddhu\.gradle\caches\8.10.2\transforms\fa2aa483cdfb013e0954dad9efb7233d\transformed\animation-release\res
+com.cleanlr.app-pngs-53 C:\Users\Siddhu\Desktop\apps testing\CleanLightroom\app\build\generated\res\pngs\debug
+com.cleanlr.app-resValues-54 C:\Users\Siddhu\Desktop\apps testing\CleanLightroom\app\build\generated\res\resValues\debug
+com.cleanlr.app-packageDebugResources-55 C:\Users\Siddhu\Desktop\apps testing\CleanLightroom\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.cleanlr.app-packageDebugResources-56 C:\Users\Siddhu\Desktop\apps testing\CleanLightroom\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.cleanlr.app-debug-57 C:\Users\Siddhu\Desktop\apps testing\CleanLightroom\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.cleanlr.app-debug-58 C:\Users\Siddhu\Desktop\apps testing\CleanLightroom\app\src\debug\res
+com.cleanlr.app-main-59 C:\Users\Siddhu\Desktop\apps testing\CleanLightroom\app\src\main\res

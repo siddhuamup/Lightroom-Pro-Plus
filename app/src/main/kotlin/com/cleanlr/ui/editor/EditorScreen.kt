@@ -25,6 +25,7 @@ import androidx.compose.ui.unit.sp
 import com.cleanlr.ui.components.*
 import com.cleanlr.ui.theme.*
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun EditorScreen(
     viewModel: EditorViewModel,

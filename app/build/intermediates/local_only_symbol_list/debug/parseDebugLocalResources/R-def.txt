@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+color spectrum_blue_400
+color spectrum_blue_500
+color spectrum_border
+color spectrum_canvas
+color spectrum_mask_overlay
+color spectrum_surface
+color spectrum_surface_elevated
+color spectrum_text_primary
+color spectrum_text_secondary
+string app_name
+style Theme.CleanLightroom
