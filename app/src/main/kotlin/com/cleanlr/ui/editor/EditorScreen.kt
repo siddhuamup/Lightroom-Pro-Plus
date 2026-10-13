@@ -13,6 +13,9 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.CompareArrows
+import androidx.compose.material.icons.automirrored.filled.Redo
+import androidx.compose.material.icons.automirrored.filled.Undo
 import androidx.compose.material.icons.filled.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
@@ -69,7 +72,7 @@ fun EditorScreen(
                         enabled = canUndo
                     ) {
                         Icon(
-                            imageVector = Icons.Default.Undo,
+                            imageVector = Icons.AutoMirrored.Filled.Undo,
                             contentDescription = "Undo",
                             tint = if (canUndo) SpectrumTextPrimary else SpectrumTextSecondary.copy(alpha = 0.4f)
                         )
@@ -81,7 +84,7 @@ fun EditorScreen(
                         enabled = canRedo
                     ) {
                         Icon(
-                            imageVector = Icons.Default.Redo,
+                            imageVector = Icons.AutoMirrored.Filled.Redo,
                             contentDescription = "Redo",
                             tint = if (canRedo) SpectrumTextPrimary else SpectrumTextSecondary.copy(alpha = 0.4f)
                         )
@@ -103,7 +106,7 @@ fun EditorScreen(
                         contentAlignment = Alignment.Center
                     ) {
                         Icon(
-                            imageVector = Icons.Default.CompareArrows,
+                            imageVector = Icons.AutoMirrored.Filled.CompareArrows,
                             contentDescription = "Compare Before/After",
                             tint = if (isComparingOriginal) SpectrumBlue else SpectrumTextPrimary
                         )
@@ -240,7 +243,7 @@ fun EditorScreen(
                 }
             }
 
-            Divider(color = SpectrumBorder, thickness = 1.dp)
+            HorizontalDivider(color = SpectrumBorder, thickness = 1.dp)
 
             // Active Panel Controls (Scrollable)
             Box(
